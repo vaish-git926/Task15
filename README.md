@@ -5,7 +5,7 @@ This repository contains my Task 15 report for the DVWA SQL Injection labs (Low,
 
 Contents
 
-report/ — The written report (PDF / DOCX / Markdown) and screenshots.
+task15/ — The written report (DOCX) and screenshots.
 
 README.md — this file.
 
