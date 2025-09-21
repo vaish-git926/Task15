@@ -7,13 +7,7 @@ Contents
 
 report/ — The written report (PDF / DOCX / Markdown) and screenshots.
 
-evidence/ — sqlmap output, curl timing tests, redacted logs (sensitive values removed).
-
-notes/ — auxiliary notes, sample payloads, and commands used.
-
 README.md — this file.
-
-(If your repo layout is different, update these paths accordingly.)
 
 Environment
 
